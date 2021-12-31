@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chih-Fan (Rich) Pai"
-  avatar           : "profile.png"
+  avatar           : "IMG_1540.png"
   bio              : "PhD Student at UCSD ECE"
   location         : "La Jolla, CA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chih-fan-rich-pai-2a3558160/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
